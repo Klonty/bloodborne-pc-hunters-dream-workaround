@@ -1,4 +1,8 @@
-# bloodborne-pc-hunters-dream
+# bloodborne-pc-hunters-dream-workaround
+
+> **Superseded by the full fork:** [Klonty/bloodborne-pc-hunters-dream](https://github.com/Klonty/bloodborne-pc-hunters-dream)
+> restores The Hunter's Dream in the launcher source and ships a ready launcher patch. This
+> repository stays as a minimal `BB_HUNTERS_DREAM=1` workaround for the official 1.9.7 build.
 
 A small, unofficial workaround that brings back **The Hunter's Dream** co-op pool in
 **bbport 1.9.7** — the Windows port of Bloodborne by Supermedo.
