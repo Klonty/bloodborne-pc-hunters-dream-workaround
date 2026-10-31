@@ -1,0 +1,26 @@
+# Game and port files — never commit these
+*.exe
+*.dll
+*.pyd
+*.so
+*.bin
+eboot.bin
+Game/
+dvdroot_ps4/
+sce_sys/
+sce_module/
+bin/
+out/
+user/
+fsr4_shaders/
+tools/
+
+# Runtime data and secrets
+*.log
+settings.json
+*_token*
+*_password*
+*_pass*
+host_overrides.json
+savedata/
+save_backups/
